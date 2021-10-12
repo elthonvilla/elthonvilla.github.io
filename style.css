@@ -22,16 +22,15 @@ body {
 
 #foto {
   float: left;
-  width: 300px;
+  width: 305px;
   padding: 13px;
   background-color: rgb(80, 48, 29);
-  
 }
 #foto-container {
   height: 326px;
 }
 
-#nome{
+#nome {
   text-align: center;
 }
 
